@@ -1,0 +1,12 @@
+===============================================================
+Advice to Released Firmware Revisions
+===============================================================
+CMMT-...-MP-... User Training Project in TwinCAT 3.0 PC Control
+Created by: Dave Thomas - Festo US
+Modified by: 
+-------------------------------------------------------------------------------------------------------
+Version Date of Release
+V1.0 06.08.2024
+-------------------------------------------------------------------------------------------------------
+Changes in Library:
+V1.0 - Development Created and posted to GitHub; Dave to add. 
