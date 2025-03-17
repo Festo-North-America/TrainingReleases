@@ -1,0 +1,12 @@
+===============================================================
+Advice to Released Firmware Revisions
+===============================================================
+CMMT-...-MP-... User Training Project in Festo CODESYS Cia402 Bit Level Control
+Created by: Dave Thomas - Festo US
+Modified by: 
+-------------------------------------------------------------------------------------------------------
+Version Date of Release
+V1.0 02.11.2025
+-------------------------------------------------------------------------------------------------------
+Changes in Library:
+V1.0 - Development Created and posted to GitHub
